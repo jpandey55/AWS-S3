@@ -12,8 +12,8 @@ import com.amazonaws.services.s3.model.PutObjectResult;
 public class S3JavaSDKExample {
 	public static void main(String[] args) throws Exception {
 
-		createAndPopulateSimpleBucket();
-		//demoServerSideEncryptionNotResource();
+		//createAndPopulateSimpleBucket();
+		demoServerSideEncryptionNotResource();
 
 	}
 
