@@ -1,4 +1,4 @@
-package org.jeet.awsS3.aws_S3demo;
+package org.jeet.awsS3.demo;
 
 public class Credentials {
 
